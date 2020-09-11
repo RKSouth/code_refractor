@@ -85,33 +85,27 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* combined lead, brand, cost into 1 because they are the same */
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+/* combined h3 into 1 section */
+/* .benefit-lead h3 { */
+    /* margin-bottom: 10px; */
+    /* text-align: center; */
+/* } */
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* .benefit-brand h3 { */
+    /* margin-bottom: 10px; */
+    /* text-align: center; */
+/* } */
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
+/* .benefit-cost h3 { */
+     /* margin-bottom: 10px; */
+    /* text-align: center; */
+/* } */
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
