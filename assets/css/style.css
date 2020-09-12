@@ -23,8 +23,8 @@ h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
-header div {
+/* changed div into nav */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,12 +32,12 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
     
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
     
@@ -50,8 +50,8 @@ a {
     text-decoration: none;
 }
 
-
-.hero {
+/* changed hero to figure */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -80,7 +80,8 @@ article {
 /* moved .search-engine-optimization, .online-reputation-management, .social-media-marketing */
 /* combined .search-engine-optimization, .online-reputation-management, .social-media-marketing */
 /* When classes and id's removed from other areas, inserted div here to ensure alignment */
-article div {
+/* changed div to section */
+article section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -150,7 +151,8 @@ aside {
 }
 /* Combined benefit-lead, benefit-brand, and benefit-cost and turned into aside */
 /* added div to make sure the margins between statements shows up */
-aside div {
+/*  changed div to section */
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
