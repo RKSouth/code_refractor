@@ -15,7 +15,7 @@ I did this to not only make my code more concise in general but to make it easie
 
 In order to understand what I was initially looking out, I started from the CSS first and combined all the duplicate classes. ".benefit-brand img", ".benefit-lead img" and ".benet-cost img" all contained the exact same thing and therefore could be put onto 1 block of code with the 3 lables. I did this for all duplicate blocks. 
 
-Then I went to the HTML code. I opened it up both in my IDE and in my browser and examined it. I also opened the w3 schools page on [Semantic HTML] (https://www.w3schools.com/html/html5_semantic_elements.asp). I systamitically went from the outer edge in, removing '<div class="benefits>' and replacing it with "aside" then moving to the CSS and changing it there as well; saving and checking routinely as I went. 
+Then I went to the HTML code. I opened it up both in my IDE and in my browser and examined it. I also opened the w3 schools page on [Semantic HTML] (https://www.w3schools.com/html/html5_semantic_elements.asp). I systamitically went from the outer edge in, removing div class="benefits and replacing it with "aside" then moving to the CSS and changing it there as well; saving and checking routinely as I went. 
 
 Finally I removed the inner sections, determining which <div>'s needed to stay and which to go, all inner divs were replaced with "sections" which, with only few exceptions no longer needed the "." to indicate a class.
 
@@ -38,9 +38,10 @@ To elaborate-sometimes images move, disapear or are just unnaccesable. Having an
     What?/How?
 
 By finding this code:
-'<img src="./assets/images/lead-generation.png" />' and turning it into this:
-'<img src="./assets/images/lead-generation.png" alt="gears going down into money" />'
-Notice what added: alt="gears going down into money"
+img src="./assets/images/lead-generation.png" and turning it into this:
+img src="./assets/images/lead-generation.png" alt="gears going down into money"
+
+Notice what I added: alt="gears going down into money"
     
 A simply alt= with a good description in quoatation marks, it doesn't need to be long and detailed as long as the core of the image is described. 
     
