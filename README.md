@@ -5,9 +5,9 @@ theres a section in the good read me example that says "At a minimum, your proje
 ## Features 
 
 
- __1. Converted all HTML elements into semantic terms__
+    __1. Converted all HTML elements into semantic terms__
  
-    Why?
+__Why?__
 
 I did this to not only make my code more concise in general but to make it easier to read for search engine optimization and for anyone else that might want to read/edit it in the future. There were plenty of instances where it was not clear whether you were looking at a header or a footer or a section within a section. Adding labels to the outer sections (such as article, aside, header and footer) made it easier to see where you were in the code and when making changes, easier to avoid mistakes.
 
@@ -28,6 +28,7 @@ Because it is plain unnaceptable to have code floating around willy-nilly with n
     What?/How?
 
 Most of the disorder in this code was in the CSS versus in the HTML. For instance, the paragraph tag, "p" was found floating amongst the header stuff- since there were no paragraphs actually in the heard I put it in place with the rest of the article section. For the most part, I wasn't 100% sure what constituted professional logical order but, I did follow my own idea which was to put everything in the order of their importance of the page and in which they appear. 
+
 __3. Added alt attributes to all image elements so that they meet accessibility standards__
 
     Why?
