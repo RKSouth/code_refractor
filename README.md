@@ -17,7 +17,7 @@ In order to understand what I was initially looking out, I started from the CSS 
 
 Then I went to the HTML code. I opened it up both in my IDE and in my browser and examined it. I also opened the w3 schools page on [Semantic HTML] (https://www.w3schools.com/html/html5_semantic_elements.asp). I systamitically went from the outer edge in, removing div class="benefits and replacing it with "aside" then moving to the CSS and changing it there as well; saving and checking routinely as I went. 
 
-Finally I removed the inner sections, determining which <div>'s needed to stay and which to go, all inner divs were replaced with "sections" which, with only few exceptions no longer needed the "." to indicate a class.
+Finally I removed the inner sections, determining which div's needed to stay and which to go, all inner divs were replaced with "sections" which, with only few exceptions no longer needed the "." to indicate a class.
 
 __2. Re-ordered the elements to follow a logical structure (HTML)__
 
