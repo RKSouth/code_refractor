@@ -9,7 +9,8 @@
 * [License] (#license)
 
 ## Technologies Used
-* HTML * CSS
+* HTML 
+* CSS
 ## Usage
 ### How do you use this project? You may use it nearly anyway you see fit however, if you feel lost, scared and alone; I have some suggestions for you. 
  1. You may admire it, sit back and take in the beauty. Peruse through the code. Enjoy it as if it were an old coletrain record, Bach or Monet. So, I might not be quite there yet but not every note written by Bach was divined, Coletain didn't start out great and in the beginning Monet's art looked like everyone elses at the time.
