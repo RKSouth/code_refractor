@@ -66,12 +66,12 @@ Because if you are like me, you enjoy a lot of tabs. The more tabs you have open
 Generally, the name of the company is a good enough descriptor for a website, especially if it is a home page and not some subsection. A short description can be usefull in specific instances but generally, I like to keep things as simple as I can.
 ## Table of Contents
 
-* [TechnologiesUsed](TechnologiesUsed)
+* [Technologies Used](Technologies_Used)
 * [Usage](Usage)
 * [Credits](Credits)
 * [License](License)
 
-## TechnologiesUsed
+## Technologies_Used
 * HTML 
 * CSS
 
@@ -83,30 +83,10 @@ Generally, the name of the company is a good enough descriptor for a website, es
 
  ## Credits
 
-I would like to thank Kerwin, Jerome and all my classmates for helping and anyone that contributed to make the base code.
+I would like to thank Kerwin, Manuel Jerome and all my classmates for helping me understand this subject matter and anyone that contributed to make the base code.
 
 ## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-MIT License
-
-Copyright (c) [2020] [Rachael Kelm-Southworth]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 
