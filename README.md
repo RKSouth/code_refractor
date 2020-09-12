@@ -1,16 +1,20 @@
 # code_refractor
-
-## This is my first homework assignment for my coding bootcamp class. It is a website for an SEO (Search Enginge Optimization) but the HTML and CSS code needed to be cleaned up. The goal is to make the HTML/CSS more semantic and easier for, here it comes, search engine optimization. 
+<!--  2 hours ago
+theres a section in the good read me example that says "At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here." -->
+### The goal of this project was to make the code more concise, semmantically correct and usable for search engine optimization. I did this to better understand what good code looks and feels like, to work on developing strong habits of commenting, commiting, and continous improvement. Making code smaller, easier to read and more agile for the user is what turns smart men into rich men-and me into a better observer and practioner of creating well, written and optimized code. Knowing that it needs to happen is not enough, practicing is the only way. 
+## Features 
 
 ## Table of Contents
-* [Technologies Used] (#Technologies Used)
-* [Usage] (#usage)
-* [Credits] (#credits)
-* [License] (#license)
+
+* [Technologies Used](Technologies Used)
+* [Usage](Usage)
+* [Credits](Credits)
+* [License](License)
 
 ## Technologies Used
 * HTML 
 * CSS
+
 ## Usage
 ### How do you use this project? You may use it nearly anyway you see fit however, if you feel lost, scared and alone; I have some suggestions for you. 
  1. You may admire it, sit back and take in the beauty. Peruse through the code. Enjoy it as if it were an old coletrain record, Bach or Monet. So, I might not be quite there yet but not every note written by Bach was divined, Coletain didn't start out great and in the beginning Monet's art looked like everyone elses at the time.

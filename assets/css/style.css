@@ -62,15 +62,6 @@ figure {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 article {
     width: 75%;
@@ -82,12 +73,22 @@ article {
 /* When classes and id's removed from other areas, inserted div here to ensure alignment */
 /* changed div to section */
 article section {
-    margin-bottom: 20px;
+    margin-bottom: 20px;  
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+/* moved floats to correct order in which they appear */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 /* moved p into the same order it appears in html */
 p {
