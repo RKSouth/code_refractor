@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Removed "." from header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,13 +69,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/* changed .benefit to aside */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -85,27 +85,33 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* combined lead, brand, cost into 1 because they are the same */
-.benefit-lead, .benefit-brand, .benefit-cost {
+/* Combined benefit-lead, benefit-brand, and benefit-cost and turned into aside */
+aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* combined h3 into 1 section */
-/* .benefit-lead h3 { */
-    /* margin-bottom: 10px; */
-    /* text-align: center; */
-/* } */
 
-/* .benefit-brand h3 { */
-    /* margin-bottom: 10px; */
-    /* text-align: center; */
-/* } */
+/* .benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 
-/* .benefit-cost h3 { */
-     /* margin-bottom: 10px; */
-    /* text-align: center; */
-/* } */
-h3 {
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+} */
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -167,7 +173,7 @@ h3 {
     max-height: 200px;
 }
 
-/* .search-engine-optimization h2 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -175,20 +181,20 @@ h3 {
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-} */
-/* combined all h2 */
-h2 {
+}
+
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-footer {
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+.footer h2 {
     font-size: 20px;
 }
