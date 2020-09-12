@@ -167,7 +167,7 @@ h3 {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -175,9 +175,9 @@ h3 {
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-.social-media-marketing h2 {
+} */
+/* combined all h2 */
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
